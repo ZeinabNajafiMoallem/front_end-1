@@ -1,0 +1,25 @@
+.product__item {
+    display: flex;
+    justify-content: center;
+}
+
+.product__item .card {
+    border: none;
+}
+
+.product__item .btn i {
+    font-size: large;
+    color: blueviolet;
+}
+
+.product__item .card-title {
+    color: darkmagenta;
+}
+
+.product__item img {
+    border-radius: 150px;
+}
+
+.product__item .bi {
+    color: blueviolet;
+}

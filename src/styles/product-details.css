@@ -1,0 +1,70 @@
+.product__details .card {
+    border: none;
+    padding-right: 2rem;
+    padding-bottom: 70px;
+}
+
+.product__details img {
+    width: 50%;
+}
+
+.product__details .card-title {
+    color: darkmagenta;
+}
+
+.product__details .product__price {
+    color: darkorchid;
+}
+
+.product__details .product__desc {
+    color: deeppink;
+}
+
+.product__details .active_tab {
+    font-weight: 600;
+}
+
+.product__details .card-body button {
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+    border: none;
+    color: blueviolet;
+    background-color: lightsteelblue;
+    border-radius: 5px;
+}
+
+.product__details__2 .tab__wrapper {
+    cursor: pointer;
+}
+
+.product__details__2 button {
+    background-color: lightsteelblue;
+    border: none;
+    color: blueviolet;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+.product__details__2 .star-wrapper button {
+    background-color: white;
+}
+
+.product__details__2 .star-wrapper .FaStar {
+    width: 15px;
+}
+
+.related__title {
+    padding-top: 100px;
+}
+
+.related__title h3 {
+    padding-right: 15px;
+    padding-bottom: 50px;
+    color: slateblue;
+}
+
+.related__title i {
+    color: orangered;
+}

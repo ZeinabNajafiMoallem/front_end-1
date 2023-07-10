@@ -1,0 +1,11 @@
+.common__section {
+    padding-bottom: 70px;
+}
+
+.common__section .card-img {
+    height: 200px;
+}
+
+.common__section .card-title {
+    color: darkorchid;
+}

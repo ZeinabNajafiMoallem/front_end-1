@@ -1,0 +1,28 @@
+.checkout__section .col-8 {
+    background-color: aliceblue;
+    color: blueviolet;
+}
+
+.checkout__section .col-4 {
+    background-color: ghostwhite;
+}
+
+.checkout__section .checkout__cart {
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
+.checkout__section .checkout__cart h6 {
+    color: slateblue;
+}
+
+.checkout__section .checkout__cart h5 {
+    color: red;
+    padding-top: 15px;
+}
+
+.checkout__section .btn {
+    margin-top: 20px;
+    color: rebeccapurple;
+    background-color: pink;
+}

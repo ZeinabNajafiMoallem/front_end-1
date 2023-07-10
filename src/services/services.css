@@ -1,0 +1,18 @@
+.services {
+    padding-top: 50px;
+}
+
+.services .service__item {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+}
+
+.services .service__item span {
+    font-size: 2rem;
+}
+
+.services .service__item p {
+    padding-top: 10px;
+    font-size: 1.1rem;
+}

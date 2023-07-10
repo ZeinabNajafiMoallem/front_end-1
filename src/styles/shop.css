@@ -1,0 +1,25 @@
+.shop__section .filter__widget select {
+    background-color: lavender;
+    border-color: lavender;
+    color: blueviolet;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+}
+
+.shop__section .search__box input {
+    background-color: lavender;
+}
+
+.shop__section .search__box button {
+    background-color: mediumpurple;
+}
+
+.shop__section .search__box i {
+    color: midnightblue;
+}
+
+.product__all {
+    padding-top: 70px;
+    padding-bottom: 20px;
+}

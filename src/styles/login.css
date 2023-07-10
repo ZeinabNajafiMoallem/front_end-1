@@ -1,0 +1,27 @@
+.login__section {
+    background-color: rgba(153, 50, 204, 0.522);
+    width: 50%;
+    margin-right: 25%;
+    padding: 10px;
+    color: darkblue;
+    padding-right: 15px;
+}
+
+.login__section .app input {
+    border-radius: 10px;
+    border: none;
+    margin-bottom: 15px;
+}
+
+.login__section .app button {
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: blueviolet;
+}
+
+.login__section .btn__account {
+    border: none;
+    background-color: rgba(153, 50, 204, 0);
+    color: brown;
+}
